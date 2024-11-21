@@ -1,13 +1,13 @@
 import portfolio from "../assets/projectsImg/portfolio.png";
 import blackJackGame from "../assets/projectsImg/blackJackGame.png";
-import pokemongenerator from "../assets/projectsImg/PokemonGenerator.png";
+import pokemongenerator from "../assets/projectsImg/pokemonGenerator.png";
 import pennywiser from "../assets/projectsImg/pennyWiser.png";
 import videotube from "../assets/projectsImg/videoTube.png";
 import nqueenvisulaiser from "../assets/projectsImg/nqueen.png";
 import leetsheet from "../assets/projectsImg/leetSheet.png";
 import multipligame from "../assets/projectsImg/multipliGame.png";
 
-import pokeGames from "../assets/projectsImg/pokeGames.webp";
+// import pokeGames from "../assets/projectsImg/pokeGames.webp";
 
 export const PROJECTS = [
   {
