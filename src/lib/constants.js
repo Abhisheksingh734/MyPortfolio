@@ -68,9 +68,9 @@ export const PROJECTS = [
   },
   {
     img: portfolio,
-    liveLink: "https://supermoooo.github.io/MyPortfolio/",
+    liveLink: "https://absake.vercel.app/",
     gitHubTrue: true,
-    gitHubLink: "https://github.com/SuperMoooo/MyPortfolio",
+    gitHubLink: "https://github.com/Abhisheksingh734/MyPortfolio",
     title: "My Portfolio",
     desc: "The site you are on right now",
     techs: ["React", "TailwindCSS"],

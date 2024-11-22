@@ -35,7 +35,6 @@ export default function Modal({ openModal, handleOpenModal, handleAddToSee }) {
           <h1>HTML / CSS / JS</h1>
           <input
             type="checkbox"
-            defaultChecked
             className="checkbox"
             onClick={(e) => handleAddToSee(["html"], e.target.checked)}
           />
