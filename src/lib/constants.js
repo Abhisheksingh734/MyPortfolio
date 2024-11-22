@@ -77,9 +77,9 @@ export const PROJECTS = [
   },
   {
     img: blackJackGame,
-    liveLink: "https://supermoooo.github.io/blackJackGame/",
+    liveLink: "https://my-blackjack.vercel.app/",
     gitHubTrue: true,
-    gitHubLink: "https://github.com/SuperMoooo/blackJackGame",
+    gitHubLink: "https://github.com/Abhisheksingh734/BlackJack",
     title: "BlackJack Game",
     desc: "BlackJack game with infinite money and no split cards",
     techs: ["HTML", "CSS", "JavaScript"],
